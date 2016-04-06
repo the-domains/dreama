@@ -1,0 +1,28 @@
+name: DreamA
+favicon: null
+layout_spectrum: 0.8615723813418299
+typography_spectrum: 0.23981695994734764
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.95957419462502
+  lightness: 0.00866054417565465
+  saturation: 0.25474736909382045
+  rhythmicContrast: 0.06346113933250308
+purpose: []
